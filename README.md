@@ -120,8 +120,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 - [x] Dia 01: RTL - Primeiros passos
 - [x] Dia 02: RTL - Mocks e Inputs
-- [ ] Dia 03: RTL - Testando React Router
-- [ ] Dia 04: Projeto - Testes em React
+- [x] Dia 03: RTL - Testando React Router
+- [x] Dia 04: Projeto - Testes em React
 
 ##### Bloco 16: Gerenciamento de estado com Redux
 
