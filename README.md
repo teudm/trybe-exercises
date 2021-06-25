@@ -125,22 +125,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 ##### Bloco 16: Gerenciamento de estado com Redux
 
-- [ ] Dia 01: Introdução ao Redux - O estado global da aplicação
-- [ ] Dia 02: Usando o Redux no React
-- [ ] Dia 03: Usando o Redux no React - Prática
-- [ ] Dia 04: Usando o Redux no React - Actions Assíncronas
-- [ ] Dia 05: Testes em React-Redux
-- [ ] Dia 06: Projeto - Trybe Wallet
+- [x] Dia 01: Introdução ao Redux - O estado global da aplicação
+- [x] Dia 02: Usando o Redux no React
+- [x] Dia 03: Usando o Redux no React - Prática
+- [x] Dia 04: Usando o Redux no React - Actions Assíncronas
+- [x] Dia 05: Testes em React-Redux
+- [x] Dia 06: Projeto - Trybe Wallet
 
 ##### Bloco 17: Projeto Jogo de Trivia
 
-- [ ] Dia 01: Projeto - Jogo de Trivia
+- [x] Dia 01: Projeto - Jogo de Trivia
 
 ##### Bloco 18: Context API e React Hooks
 
-- [ ] Dia 01: Context API do React
-- [ ] Dia 02: React Hooks - useState e useContext
-- [ ] Dia 03: React Hooks - useEffect e Hooks customizados
+- [x] Dia 01: Context API do React
+- [x] Dia 02: React Hooks - useState e useContext
+- [x] Dia 03: React Hooks - useEffect e Hooks customizados
 - [ ] Dia 04: Projeto - StarWars Datatable com Context API e Hooks
 
 ##### Bloco 19: Projeto App de Receitas
