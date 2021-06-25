@@ -28,7 +28,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Dia 02: HTML & CSS - Primeiros passos em CSS
 - [x] Dia 03: HTML & CSS - Seletores e posicionamento
 - [x] Dia 04: HTML Semântico
-- [x] Dia 05: [Projeto - Lessons Learned](link)
+- [x] Dia 05: Projeto - Lessons Learned
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
@@ -37,7 +37,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Dia 02: JavaScript - Array e loop For
 - [x] Dia 03: JavaScript - Lógica de Programação e Algoritmos
 - [x] Dia 04: JavaScript - Objetos e funções
-- [x] Dia 05: [Projeto - Playground Functions](link)
+- [x] Dia 05: Projeto - Playground Functions
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
@@ -45,8 +45,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Dia 02: JavaScript - Trabalhando com elementos
 - [x] Dia 03: JavaScript - Eventos
 - [x] Dia 04: JavaScript - Web Storage
-- [x] Dia 05: [Projeto - Arte com Pixels](link)
-- [x] Dia 06: [Projeto - Lista de tarefas](link)
+- [x] Dia 05: Projeto - Arte com Pixels
+- [x] Dia 06: Projeto - Lista de tarefas
 - [ ] Dia 07: (Bônus) Projeto - Meme Generator
 - [ ] Dia 07: (Bônus) Projeto - Adivinhe a Cor
 - [ ] Dia 07: (Bônus) Projeto - Carta Misteriosa
@@ -58,14 +58,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Dia 03: Introdução - CSS Flexbox
 - [x] Dia 04: CSS Flexbox - Parte 2
 - [x] Dia 05: CSS Responsivo - Mobile First
-- [x] Dia 06: [Projeto - Facebook Login Page](link)
+- [x] Dia 06: Projeto - Facebook Login Page
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
 - [x] Dia 01: JavaScript ES6 - let, const, arrow functions e template literals
 - [x] Dia 02: JavaScript ES6 - Objects
 - [x] Dia 03: Testes unitários em JavaScript
-- [x] Dia 04: [Projeto - JavaScript Testes Unitários](link)
+- [x] Dia 04: Projeto - JavaScript Testes Unitários
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
@@ -74,20 +74,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Dia 03: JavaScript ES6 - Higher Order Functions - map e filter
 - [x] Dia 04: JavaScript ES6 - Higher Order Functions - reduce
 - [x] Dia 05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [x] Dia 06: [Projeto - Zoo functions](link)
+- [x] Dia 06: Projeto - Zoo functions
 
 ##### Bloco 09: JavaScript Assíncrono e Promises
 
 - [x] Dia 01: JavaScript Assíncrono e Callbacks
 - [x] Dia 02: JavaScript Promises
-- [x] Dia 03: [Projeto - Carrinho de Compras](link)
+- [x] Dia 03: Projeto - Carrinho de Compras
 
 ##### Bloco 10: Testes automatizados com Jest
 
 - [x] Dia 01: Primeiros passos no Jest
 - [x] Dia 02: Jest - Testes Assíncronos
 - [x] Dia 03: Jest - Simulando comportamentos
-- [x] Dia 04: [Projeto - Jest Assíncrono e Mocking](link)
+- [x] Dia 04: Projeto - Jest Assíncrono e Mocking
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -97,24 +97,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] Dia 01: Introdução - React
 - [x] Dia 01: 'Hello, world!' no React!
 - [x] Dia 02: Componentes React
-- [x] Dia 03: [Projeto - Movie Cards Library](link)
+- [x] Dia 03: Projeto - Movie Cards Library
 
 ###### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 
 - [x] Dia 01: Componentes com estado e eventos
 - [x] Dia 02: Formulários no React
-- [x] Dia 03: [Projeto - Movie Cards Library Stateful](link)
+- [x] Dia 03: Projeto - Movie Cards Library Stateful
 
 ###### Bloco 13: Ciclo de Vida de Componentes e React Router
 
 - [x] Dia 01: Ciclo de vida de componentes
 - [x] Dia 02: React Router
-- [x] Dia 03: [Projeto - Movie Cards Library CRUD]
+- [x] Dia 03: Projeto - Movie Cards Library CRUD
 
 ##### Bloco 14: Metodologias Ágeis
 
 - [x] Dia 01: Metodologias Ágeis
-- [x] Dia 02: [Projeto - Frontend Online Store](link)
+- [x] Dia 02: Projeto - Frontend Online Store
 
 ##### Bloco 15: Testes automatizados com React Testing Library
 
